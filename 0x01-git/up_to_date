@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull git@github.com:EL-PORCHANI/alx-pre_course.git
+=======
+git clone https://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@github.com/EL-PORCHANI/alx-pre_course.git 
+>>>>>>> 782300446dfd36a6351ed00603b8bb94ed57e79d
